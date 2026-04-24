@@ -1,2 +1,7 @@
 .staticrypt.json
 _enc/
+node_modules/
+source.html
+gate-template.html
+package.json
+package-lock.json
